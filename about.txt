@@ -1,0 +1,13 @@
+Professional Bio
+
+I am a passionate developer learning Git and GitHub version control. 
+This lab activity is helping me understand branching, pull requests, 
+and collaborative workflows.
+
+Skills:
+- Git version control
+- GitHub collaboration
+- Command line operations
+- Software development fundamentals
+
+I'm excited to continue learning and building projects!
